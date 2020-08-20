@@ -1,0 +1,25 @@
+Decay Upsilon(4S)
+1.0 B+ B- VSS;
+Enddecay
+
+Decay B+
+0.5 K+ D*0 anti-D0 PHOTOS PHSP;
+0.5 K+ D0 anti-D*0 PHOTOS PHSP;
+Enddecay
+
+Decay D*0
+0.65 D0 pi0 PHOTOS VSS;
+0.35 D0 gamma PHOTOS VSP_PWAVE;
+Enddecay
+CDecay anti-D*0
+
+Decay D0
+0.13 K- pi+             PHOTOS PHSP;
+0.47 K- pi+ pi0         PHOTOS D_DALITZ;
+0.27 K- pi+ pi+ pi-     PHOTOS PHSP;
+0.13 K_S0 pi+ pi-       PHOTOS D_DALITZ;
+0.13 K- K+              PHOTOS PHSP;
+Enddecay
+CDecay anti-D0
+
+End
