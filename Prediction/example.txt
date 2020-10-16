@@ -1,0 +1,11 @@
+basf2 ./input.root ./output.root 0.5 True/False
+
+python ./input.pkl ./output.pkl 0.5 True/False
+
+      Input path / file
+
+	       Output path / filename
+
+			  Threshold for decision
+
+				  Drop tuples labeled 0?
